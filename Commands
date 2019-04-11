@@ -1,0 +1,10 @@
+git checkout
+git status
+git pull
+git merge
+git stash
+git commit
+git log
+git branch
+git cherry-pick
+git fetch
